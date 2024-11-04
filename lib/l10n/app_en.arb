@@ -1,0 +1,10 @@
+{
+  "@@locale": "en",
+  "appTitle": "Movie DB",
+  "movieTitle": "Movies",
+  "genre": "Genres",
+  "budget": "Budget",
+  "voteAverage": "Vote Average",
+  "voteCount": "Vote Count",
+  "overview": "Overview"
+}

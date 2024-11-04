@@ -1,0 +1,10 @@
+{
+  "@@locale": "ru",
+  "appTitle": "Кино База",
+  "movieTitle": "Фильмы",
+  "genre": "Жанры",
+  "budget": "Бюджет",
+  "voteAverage": "Средний Балл",
+  "voteCount": "Количество Голосов",
+  "overview": "Описание"
+}
